@@ -6142,7 +6142,6 @@ form legend,
   opacity: 0.50;
 }
 .widget {
-  display: block;
   margin-right: -10px;
 }
 .widget .widget-title {
